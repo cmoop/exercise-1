@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+Hi! This is Exercise 1 of the CodeWithMosh HTML 1 class.
